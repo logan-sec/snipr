@@ -1,6 +1,7 @@
 snipr — fast single-point HTTP fuzzer (Burp “Sniper” style)
 
 Usage:
+```bash
   snipr [OPTIONS]
 
 Options:
